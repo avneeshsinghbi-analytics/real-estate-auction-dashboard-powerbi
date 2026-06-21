@@ -30,8 +30,4 @@ This dashboard provides an interactive view of real estate auction data and help
 - **Dashboard Design**
 
 ## 🖼 Dashboard Preview
-_Add your dashboard screenshot here after uploading it to the repository._
-
-Example:
-```md
 ![Dashboard Preview](dashboard-screenshot.png)
