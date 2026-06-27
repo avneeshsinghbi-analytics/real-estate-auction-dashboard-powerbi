@@ -1,7 +1,8 @@
 # 🏠 Real Estate Auction Dashboard - Power BI
 
 A **Power BI dashboard** built for **Real Estate Auction Analytics** to track **live bidding activity, premium trends, property status, and city-wise auction performance**.
-
+## 🔗 Live Dashboard
+[Click here to view the live interactive dashboard](https://github.com/avneeshsinghbi-analytics/real-estate-auction-dashboard-powerbi/blob/main/Screenshot%20(88).png)
 ## 📊 Dashboard Overview
 This dashboard provides an interactive view of real estate auction data and helps analyze auction performance through key business metrics and visual insights.
 
